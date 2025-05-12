@@ -28,3 +28,4 @@ try {
     Write-Host "Esines viga kasutaja kustutamisel: $_" -ForegroundColor Red
 }
 
+
